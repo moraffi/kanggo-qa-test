@@ -1,4 +1,5 @@
 How To run AutomationUI
+
 (pre-condition)
 - Install Selenium
 
@@ -6,6 +7,7 @@ execute the following command in the project directory:
 - python kanggoui.py
 
 How To run AutomationRestApi
+
 (pre-condition)
 - install request
 - install pytest
