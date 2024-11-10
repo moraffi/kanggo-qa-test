@@ -14,8 +14,11 @@ How To run AutomationRestApi
 - install pytest
 
 To install the requests package, run the following command:
+
 pip install requests
+
 To install the requests package, run the following command:
+
 pip install pytest
 
 To run the API tests, execute the following command in the project directory:
